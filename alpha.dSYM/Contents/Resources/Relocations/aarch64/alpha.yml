@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/utkarshsingh/Desktop/EMI Calculator/output/alpha'
+relocations:     []
+...
